@@ -25,3 +25,8 @@ A collection of awesome [GTFS](https://developers.google.com/transit/gtfs/) libr
 * [onebusaway-gtfs-modules](https://github.com/OneBusAway/onebusaway-gtfs-modules) - A Java-based library for reading, writing, and transforming public transit data in the GTFS format, including database support.   
 * [GTFS Ruby](https://github.com/nerdEd/gtfs) - A Ruby wrapper for the General Transit Feed Specification.   
 
+## Data Viewers
+
+* [GTFS Visualizer](https://github.com/AndreNDarcie/gtfs-visualizer) - Library responsible for generating HTML data based on the GTFS format.
+* [LiveMap](https://github.com/google/gtfs-realtime-bindings) - Real-time visualization of public transportation based on parsed GTFS data sets.
+* [GTFS Visualizations](https://github.com/cmichi/gtfs-visualizations) - Visualizing GTFS data.
