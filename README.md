@@ -24,7 +24,8 @@ A collection of awesome [GTFS](https://developers.google.com/transit/gtfs/) libr
 * [Transitfeed module](https://github.com/bmander/gtfs) - A rewrite of the python transitfeed module.          
 * [GTFS-viz](https://github.com/vasile/GTFS-viz) - Converts a GTFS dataset into a SQLite DB + GeoJSONs / KMLs.   
 * [onebusaway-gtfs-modules](https://github.com/OneBusAway/onebusaway-gtfs-modules) - A Java-based library for reading, writing, and transforming public transit data in the GTFS format, including database support.   
-* [GTFS Ruby](https://github.com/nerdEd/gtfs) - A Ruby wrapper for the General Transit Feed Specification.   
+* [GTFS Ruby](https://github.com/nerdEd/gtfs) - A Ruby wrapper for the General Transit Feed Specification.  
+* [GTFS Importer](https://github.com/jvashishtha/GTFSImporter) - Import GTFS data to SQLite for use in iOS and Android apps.     
 
 ## Data Viewers
 
