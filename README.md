@@ -27,7 +27,8 @@ A collection of awesome [GTFS](https://developers.google.com/transit/gtfs/) libr
 * [GTFS Ruby](https://github.com/nerdEd/gtfs) - A Ruby wrapper for the General Transit Feed Specification.  
 * [GTFS Importer](https://github.com/jvashishtha/GTFSImporter) - Import GTFS data to SQLite for use in iOS and Android apps.
 * [GTFSDB](https://github.com/OpenTransitTools/gtfsdb) - Python code that will load GTFS data into a relational database, and SQLAlchemy ORM bindings to the GTFS tables in the gtfsdb.
-* [gtfs osm sync](https://github.com/CUTR-at-USF/gtfs-osm-sync) - Synchronizes public transportation data in GTFS format with OpenStreetMap.org.    
+* [gtfs osm sync](https://github.com/CUTR-at-USF/gtfs-osm-sync) - Synchronizes public transportation data in GTFS format with OpenStreetMap.org.
+* [GTFSrDB - GTFS-realtime to Database](https://github.com/mattwigway/gtfsrdb) - GTFSrDB loads GTFS-realtime data to a database.
 
 ## Data Viewers
 
