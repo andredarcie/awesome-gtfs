@@ -30,6 +30,7 @@ A collection of awesome [GTFS](https://developers.google.com/transit/gtfs/) libr
 * [gtfs osm sync](https://github.com/CUTR-at-USF/gtfs-osm-sync) - Synchronizes public transportation data in GTFS format with OpenStreetMap.org.
 * [GTFSrDB - GTFS-realtime to Database](https://github.com/mattwigway/gtfsrdb) - GTFSrDB loads GTFS-realtime data to a database.
 * [GTFS MySQL IMPORT SCRIPT](https://github.com/sbma44/py-gtfs-mysql) - Python scripts to import a GTFS dataset into a basic MySQL database.
+* [GTFS as a Django app](https://github.com/tulsawebdevs/django-multi-gtfs) - Django app to import and export General Transit Feed Specification (GTFS).  
 
 ## Data Viewers
 
