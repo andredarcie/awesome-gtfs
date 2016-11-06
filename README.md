@@ -31,10 +31,11 @@ A collection of awesome [GTFS](https://developers.google.com/transit/gtfs/) libr
 * [GTFSrDB - GTFS-realtime to Database](https://github.com/mattwigway/gtfsrdb) - GTFSrDB loads GTFS-realtime data to a database.
 * [GTFS MySQL IMPORT SCRIPT](https://github.com/sbma44/py-gtfs-mysql) - Python scripts to import a GTFS dataset into a basic MySQL database.
 * [GTFS as a Django app](https://github.com/tulsawebdevs/django-multi-gtfs) - Django app to import and export General Transit Feed Specification (GTFS).  
-* [GeoTrellis Transit](https://github.com/geotrellis/geotrellis-transit) - API and libraries for generating travelsheds from OSM & GTFS data.   
+* [GeoTrellis Transit](https://github.com/geotrellis/geotrellis-transit) - API and libraries for generating travelsheds from OSM & GTFS data.    
 
 ## Data Viewers
 
+* [GTFS to HTML](https://github.com/brendannee/gtfs-to-html) - Build HTML timetables from GTFS transit data.  
+* [GTFS Visualizations](https://github.com/cmichi/gtfs-visualizations) - Visualizing GTFS data.
 * [GTFS Visualizer](https://github.com/AndreNDarcie/gtfs-visualizer) - Library responsible for generating HTML data based on the GTFS format.
 * [LiveMap](https://github.com/google/gtfs-realtime-bindings) - Real-time visualization of public transportation based on parsed GTFS data sets.
-* [GTFS Visualizations](https://github.com/cmichi/gtfs-visualizations) - Visualizing GTFS data.
