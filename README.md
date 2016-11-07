@@ -37,5 +37,6 @@ A collection of awesome [GTFS](https://developers.google.com/transit/gtfs/) libr
 
 * [GTFS to HTML](https://github.com/brendannee/gtfs-to-html) - Build HTML timetables from GTFS transit data.  
 * [GTFS Visualizations](https://github.com/cmichi/gtfs-visualizations) - Visualizing GTFS data.
+* [onebusaway gtfs realtime visualizer](https://github.com/OneBusAway/onebusaway-gtfs-realtime-visualizer) - A visualizer for GTFS-realtime transit data.  
 * [GTFS Visualizer](https://github.com/AndreNDarcie/gtfs-visualizer) - Library responsible for generating HTML data based on the GTFS format.
 * [LiveMap](https://github.com/google/gtfs-realtime-bindings) - Real-time visualization of public transportation based on parsed GTFS data sets.
