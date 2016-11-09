@@ -6,6 +6,7 @@ A collection of awesome [GTFS](https://developers.google.com/transit/gtfs/) libr
 - [Public Feeds](#public-feeds)
 - [Frameworks and Libraries](#frameworks-and-libraries)
 - [Data Viewers](#data-viewers)
+- [Multimodal Trip Planning](#multimodal-trip-planning)
 
 ## Public Feeds
 
@@ -40,3 +41,7 @@ A collection of awesome [GTFS](https://developers.google.com/transit/gtfs/) libr
 * [onebusaway gtfs realtime visualizer](https://github.com/OneBusAway/onebusaway-gtfs-realtime-visualizer) - A visualizer for GTFS-realtime transit data.  
 * [GTFS Visualizer](https://github.com/AndreNDarcie/gtfs-visualizer) - Library responsible for generating HTML data based on the GTFS format.
 * [LiveMap](https://github.com/google/gtfs-realtime-bindings) - Real-time visualization of public transportation based on parsed GTFS data sets.
+
+## Multimodal Trip Planning
+
+* [Open Trip Planner](http://www.opentripplanner.org/) - OpenTripPlanner provides a range of passenger information and transportation network analysis features using our infrastructure for finding itineraries combining transit, pedestrian, bike, and car segments.  
