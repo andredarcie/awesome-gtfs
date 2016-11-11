@@ -33,6 +33,7 @@ A collection of awesome [GTFS](https://developers.google.com/transit/gtfs/) libr
 * [GTFS MySQL IMPORT SCRIPT](https://github.com/sbma44/py-gtfs-mysql) - Python scripts to import a GTFS dataset into a basic MySQL database.
 * [GTFS as a Django app](https://github.com/tulsawebdevs/django-multi-gtfs) - Django app to import and export General Transit Feed Specification (GTFS).  
 * [GeoTrellis Transit](https://github.com/geotrellis/geotrellis-transit) - API and libraries for generating travelsheds from OSM & GTFS data.    
+* [GTFS Feed Parser](https://github.com/itinero/GTFS) - .Net/Mono implementation of a General Transit Feed Specification (GTFS) feed parser. 
 
 ## Data Viewers
 
