@@ -7,6 +7,7 @@ A collection of awesome [GTFS](https://developers.google.com/transit/gtfs/) libr
 - [Frameworks and Libraries](#frameworks-and-libraries)
 - [Data Viewers](#data-viewers)
 - [Multimodal Trip Planning](#multimodal-trip-planning)
+- [Editors](#editors)
 
 ## Public Feeds
 
@@ -18,8 +19,7 @@ A collection of awesome [GTFS](https://developers.google.com/transit/gtfs/) libr
 ## Frameworks and Libraries
 
 * [Google Transit Feed](https://github.com/google/transitfeed) - A Python library for reading, validating, and writing transit schedule information in the GTFS format.
-* [Node-GTFS](https://github.com/brendannee/node-gtfs) - node-GTFS loads transit data in GTFS format, unzips it and stores it to a MongoDB database.
-* [gtfs-editor](https://github.com/conveyal/gtfs-editor) - A web-based GTFS editing framework.  
+* [Node-GTFS](https://github.com/brendannee/node-gtfs) - node-GTFS loads transit data in GTFS format, unzips it and stores it to a MongoDB database. 
 * [gtfs-realtime-bindings](https://github.com/google/gtfs-realtime-bindings) - Language bindings generated from the GTFS-realtime protocol buffer spec for popular languages.       
 * [gtfs_SQL_importer](https://github.com/cbick/gtfs_SQL_importer) - Import GTFS data to SQL.        
 * [Transitfeed module](https://github.com/bmander/gtfs) - A rewrite of the python transitfeed module.          
@@ -46,3 +46,7 @@ A collection of awesome [GTFS](https://developers.google.com/transit/gtfs/) libr
 ## Multimodal Trip Planning
 
 * [Open Trip Planner](http://www.opentripplanner.org/) - OpenTripPlanner provides a range of passenger information and transportation network analysis features using our infrastructure for finding itineraries combining transit, pedestrian, bike, and car segments.  
+
+## Editors  
+
+* [gtfs-editor](https://github.com/conveyal/gtfs-editor) - A web-based GTFS editing framework.   
