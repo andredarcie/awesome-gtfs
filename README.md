@@ -50,3 +50,4 @@ A collection of awesome [GTFS](https://developers.google.com/transit/gtfs/) libr
 ## Editors  
 
 * [gtfs-editor](https://github.com/conveyal/gtfs-editor) - A web-based GTFS editing framework.   
+* [Gtfs editor](https://github.com/avilaton/gtfseditor) - A customizable editor for GTFS files which can be used both as a standalone app or deployed to a wsgi compliant hosting.
