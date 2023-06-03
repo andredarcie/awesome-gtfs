@@ -36,6 +36,7 @@ A collection of awesome [GTFS](https://developers.google.com/transit/gtfs/) libr
 * [GeoTrellis Transit](https://github.com/geotrellis/geotrellis-transit) - API and libraries for generating travelsheds from OSM & GTFS data.    
 * [GTFS Feed Parser](https://github.com/itinero/GTFS) - .Net/Mono implementation of a General Transit Feed Specification (GTFS) feed parser. 
 * [FastGtfs](https://github.com/nicomazz/fastgtfs) - Rust library to parse and merge GTFS data, designed for embedded systems. It converts the txt format in a binary one, faster to parse. It also provides a navigator (given start and destination point gives several results), and enables the creation a network simulation in real time.
+* [gtfsutils](https://github.com/triply-at/gtfsutils) - GTFS command-line tool and Python GTFS utility library
 
 ## Data Viewers
 
