@@ -12,8 +12,7 @@ A collection of awesome [GTFS](https://developers.google.com/transit/gtfs/) libr
 ## Public Feeds
 
 * [Transit Land](https://transit.land/) - Transitland brings together many sources of transit data to build a directory of operators and feeds that can be edited by transit enthusiasts and developers.    
-* [Transit Feeds](http://transitfeeds.com/) - An extensive archive of public transit data for software developers, transit agencies and more.       
-* [Google Public Feeds](https://code.google.com/archive/p/googletransitdatafeed/wikis/PublicFeeds.wiki) - This is a list of transit schedule data published by transit agencies and operators in GTFS format for developers to use.
+* [Transit Feeds](http://transitfeeds.com/) - An extensive archive of public transit data for software developers, transit agencies and more.
 * [GTFS Data Exchange](http://www.gtfs-data-exchange.com/agencies#filter_official) - Transit Agencies Providing GTFS Data.    
 
 ## Frameworks and Libraries
