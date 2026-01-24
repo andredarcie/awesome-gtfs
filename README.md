@@ -49,7 +49,8 @@ A collection of awesome [GTFS](https://developers.google.com/transit/gtfs/) libr
 
 ## Multimodal Trip Planning
 
-* [Open Trip Planner](http://www.opentripplanner.org/) - OpenTripPlanner provides a range of passenger information and transportation network analysis features using our infrastructure for finding itineraries combining transit, pedestrian, bike, and car segments.  
+* [Open Trip Planner](https://www.opentripplanner.org/) - OpenTripPlanner provides a range of passenger information and transportation network analysis features using our infrastructure for finding itineraries combining transit, pedestrian, bike, and car segments.  
+* [MOTIS](https://motis-project.de/) - MOTIS stands for Multi Objective Travel Information System, providing Real Time Routing including Trains, Buses, Trams, Planes, Bike Sharing, Ride Sharing, and many more.
 
 ## Editors  
 
