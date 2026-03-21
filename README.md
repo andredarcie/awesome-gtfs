@@ -45,6 +45,7 @@ A collection of awesome [GTFS](https://developers.google.com/transit/gtfs/) libr
 * [GTFS Visualizer](https://github.com/AndreNDarcie/gtfs-visualizer) - Library responsible for generating HTML data based on the GTFS format.
 * [LiveMap](https://github.com/google/gtfs-realtime-bindings) - Real-time visualization of public transportation based on parsed GTFS data sets.
 * [gtfs-rt-inspector](https://github.com/public-transport/gtfs-rt-inspector) - Web app to inspect & analyze any GTFS Realtime feed.
+* [MGuide](https://mguide.app) - Interactive campus map for the University of Michigan with real-time GTFS-RT bus tracking and schedule visualization for campus and city transit systems.
 
 ## Multimodal Trip Planning
 
