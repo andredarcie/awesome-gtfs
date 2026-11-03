@@ -45,6 +45,7 @@ A collection of awesome [GTFS](https://developers.google.com/transit/gtfs/) libr
 * [GTFS Visualizer](https://github.com/AndreNDarcie/gtfs-visualizer) - Library responsible for generating HTML data based on the GTFS format.
 * [LiveMap](https://github.com/google/gtfs-realtime-bindings) - Real-time visualization of public transportation based on parsed GTFS data sets.
 * [gtfs-rt-inspector](https://github.com/public-transport/gtfs-rt-inspector) - Web app to inspect & analyze any GTFS Realtime feed.
+* [Next Departures](https://github.com/stanczykwyatt/next-departures) - macOS menu bar app showing live next departures for chosen stops from any GTFS-realtime feed, with the GTFS schedule as fallback.
 
 ## Multimodal Trip Planning
 
